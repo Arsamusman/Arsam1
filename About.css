@@ -1,0 +1,7 @@
+.img{
+    float: right;
+}
+.back{
+    background-image: url(44.png);
+    background-size: cover;
+}
